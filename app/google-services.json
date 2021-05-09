@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533899172876",
+    "project_id": "connectfirebase-7825a",
+    "storage_bucket": "connectfirebase-7825a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533899172876:android:babbd18a0c964430806229",
+        "android_client_info": {
+          "package_name": "com.muskanrastogi.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533899172876-2ia0kivd374vacr2n7pcifv9ko0fmbat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSskDaJb6qZL5mawDrtaBR5elThR1h9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533899172876-2ia0kivd374vacr2n7pcifv9ko0fmbat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
